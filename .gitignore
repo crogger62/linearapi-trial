@@ -1,0 +1,16 @@
+# node
+node_modules/
+dist/
+.nyc_output/
+coverage/
+# env & local config
+.env
+.env.*
+!.env.example
+# editors/OS
+.vscode/
+.idea/
+.DS_Store
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
